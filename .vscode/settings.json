@@ -1,3 +1,9 @@
 {
-    "appcenter.api.defaultbranchname": "main"
+    "appcenter.api.defaultbranchname": "main",
+    "GithubGistExplorer.explorer.gistAscending": true,
+    "files.autoGuessEncoding": true,
+    "files.trimFinalNewlines": true,
+    "files.simpleDialog.enable": true,
+    "workbench.commandPalette.experimental.suggestCommands": true,
+    "workbench.commandPalette.preserveInput": true
 }
